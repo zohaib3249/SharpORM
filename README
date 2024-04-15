@@ -1,0 +1,15 @@
+## SharpORM
+
+SharpORM is a lightweight Object-Relational Mapping (ORM) tool designed for simplicity and efficiency in C# applications. This ORM tool provides a seamless interface between your C# code and relational databases, allowing for easy data manipulation and management.
+
+## Features
+
+- Simplified Database Operations: Perform CRUD (Create, Read, Update, Delete) operations with minimal code, reducing development time and complexity.
+- Object-Relational Mapping: Map C# classes to database tables effortlessly, making it easy to work with database entities as C# objects.
+- Support for Multiple Database Systems: SharpORM supports popular relational databases such as SQL Server, MySQL, PostgreSQL, SQLite, and more.
+- Customizable Queries: Write custom SQL queries or use ORM methods for common database operations, giving you flexibility and control.
+- Transaction Management: Manage database transactions effectively to ensure data integrity and consistency.
+
+## Contributing
+
+Contributions to SharpORM are welcome! If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub.
